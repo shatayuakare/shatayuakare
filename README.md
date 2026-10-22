@@ -1,6 +1,11 @@
-# 💫 About Me:
-* **🔭 I’m currently working on:** Building full-stack web applications and modern corporate interfaces like the **CCTV Mall Corporate Website** and **Rento Go Platform**, along with managing and developing web solutions at **Security Plus Electronics**.<br><br><br>* **🤝 I’m looking to collaborate on:** Full-stack **MERN** development, **React Native** mobile applications, and open-source web platforms.<br><br><br>* **💬 Ask me about:** **React.js, Node.js, Express.js, MongoDB**, front-end styling with **Tailwind CSS & Bootstrap**, and integrating modern UI with back-end architectures.<br><br><br>* **🌱 I’m currently learning:** Mobile application development with **React Native** and advanced Master of Computer Applications (MCA) curriculum topics.<br><br><br>* **👯 I’m looking for help with:** Mastering advanced cross-platform mobile app deployment and optimizing scalable cloud architectures for enterprise platforms.<br><br><br>* **⚡ Fun fact:** I can switch between writing full-stack code in the MERN stack and handling end-to-end digital branding and management without missing a beat.<br>
+## 👨‍💻 About Me:
 
+- 🔭 **Current Focus:** Developing scalable web platforms, including the **CCTV Mall Corporate Website** and **Rento Go Platform**, while leading web solutions at **Security Plus Electronics**.
+- 🤝 **Open for Collaboration:** Full-stack **MERN** applications, cross-platform **React Native** apps, and open-source ecosystems.
+- 💬 **Ask Me About:** **React.js, Node.js, Express.js, MongoDB**, responsive UI with **Tailwind CSS**, and REST APIs.
+- 🌱 **Currently Exploring:** Advanced **React Native** architectures and high-level **MCA** core concepts.
+- 👯 **Seeking Guidance On:** Enterprise-grade cloud architecture and automated cross-platform deployment.
+- ⚡ **Fun Fact:** Seamlessly navigating between deep full-stack engineering and full-cycle digital brand management.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/shatayuakare) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shatayuakare) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shatayu__aka__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatayuakare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shatayuakare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shatayuakare121@outlook.com) 
